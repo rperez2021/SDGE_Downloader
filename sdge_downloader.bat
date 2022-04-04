@@ -1,0 +1,1 @@
+"C:\Python\Python310\python.exe" "C:\Users\rob_s\.clickyclack\python\SDGE_Downloader\script.py"
